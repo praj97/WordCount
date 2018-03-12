@@ -1,2 +1,2 @@
 # WordCount
-Counting words in a document
+Counting number of times the words occur in a document
